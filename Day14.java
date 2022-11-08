@@ -14,7 +14,7 @@ public class Day14 {
         System.out.print("Hasil Pembagian /= : ");
         System.out.println(a /= 4);
         
-        System.out.print("Hasil Sisa Pembagian += : ");
+        System.out.print("Hasil sisa Pembagian += : ");
         System.out.println(a %= 2);
     }
 }
