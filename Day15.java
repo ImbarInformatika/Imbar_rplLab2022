@@ -5,7 +5,7 @@ public class Day15 {
             if(angka == 5){
                 break; //jika nilainya sama dengan 5 maka program akan berhenti walaupun batasnya 7
             }else{
-            System.out.println(angka);
+            System.out.println(Angka ke-" + angka);
             }
         }
     }
