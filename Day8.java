@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Day8 {
     public static void main(String[] args) {
         System.out.println("pilih operator anda");
-        System.out.println("1. penjumlahan");
-        System.out.println("2. perkalian");
-        System.out.println("3. pengurangan");
-        System.out.println("4. pembagian");
+        System.out.println("1. Penjumlahan");
+        System.out.println("2. Perkalian");
+        System.out.println("3. Pengurangan");
+        System.out.println("4. Pembagian");
  
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan pilihan anda : ");
