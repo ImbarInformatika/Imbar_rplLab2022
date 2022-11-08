@@ -9,7 +9,7 @@ public class Day7 {
         String nama = input.nextLine();
         
         System.out.println();
-        System.out.print("Masukkan tahun lahir Anda : ");
+        System.out.print("Masukkan Tahun lahir Anda : ");
         int tahun_lahir = input.nextInt();
         int usia = 2022 - tahun_lahir;
         System.out.println("Umur kamu : " + usia);
