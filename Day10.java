@@ -8,7 +8,7 @@ public class Day10 {
         System.out.println(a + " TIDAK SAMA DENGAN "+ b + " = " + (a != b));
         System.out.println(a + " LEBIH BESAR ATAU SAMA DENGAN "+ b + " = " + (a >= b));
         System.out.println(a + " LEBIH KECIL ATAU SAMA DENGAN "+ b + " = " + (a <= b));
-        System.out.println(a + " LEBIH BESAR DARI "+ b + " = " + (a > b));
         System.out.println(a + " LEBIH KECIL DARI "+ b + " = " + (a < b));
+        System.out.println(a + " LEBIH BESAR DARI "+ b + " = " + (a > b));
     }
 } 
