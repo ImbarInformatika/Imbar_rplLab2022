@@ -12,7 +12,7 @@ public class Day11 {
             {
                 case "imbar" :
                     System.out.println(nama+ " merupakan mahasiswa informatika semester tiga");
-                case "rasul" :
+                case "edwin" :
                     System.out.println(nama+ " merupakan mahasiswa informatika semester tiga");
                 default:
                     System.out.println(nama+ " bukan merupakan mahasiswa informatika semester tiga");
