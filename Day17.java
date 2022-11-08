@@ -8,7 +8,7 @@ public class Day17 {
                 System.out.println("tidak dihitung");
                 continue;
             }
-            else if (angka == 7)//ketika angka sama dengan 7 maka program akan berhenti 
+            else if (angka == 7)//Ketika angka sama dengan 7 maka program akan berhenti 
             {
                 break;
             }
