@@ -6,7 +6,7 @@ public class Day5 {
         
         nama = "Imbar";
         alamat = "Malunda";
-        umur = 19;
+        umur = 20;
         nomor_sepatu = 45;
         
         System.out.println("Nama    : " + nama);
