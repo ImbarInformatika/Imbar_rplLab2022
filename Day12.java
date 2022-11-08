@@ -11,6 +11,6 @@ public class Day12 {
         if (angka % 2 ==0)
             System.out.println("Angka : " + angka + " adalah bilangan genap");
        else
-            System.out.println("angka : " + angka + " adalag bilangan ganjil");
+            System.out.println("Angka : " + angka + " adalag bilangan ganjil");
     }
     }
