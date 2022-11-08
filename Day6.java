@@ -12,10 +12,10 @@ public class Day6 {
         kali = a * b;
         modulus = a % b;
         
-        System.out.println("Hasil tambah : " + tambah);
-        System.out.println("Hasil kurang : " + kurang);
-        System.out.println("Hasil bagi : " + bagi);
-        System.out.println("Hasil kali : " + kali);
-        System.out.println("Hasil sisa bagi : " + modulus);  
+        System.out.println("Hasil Tambah : " + tambah);
+        System.out.println("Hasil Kurang : " + kurang);
+        System.out.println("Hasil Bagi : " + bagi);
+        System.out.println("Hasil Kali : " + kali);
+        System.out.println("Hasil Sisa Bagi : " + modulus);  
     }
 }
