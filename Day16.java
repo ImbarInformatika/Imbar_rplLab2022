@@ -7,7 +7,7 @@ public class Day16 {
             {
                 continue;
             }
-            System.out.println("angka ke-" + angka);
+            System.out.println("angka ke>" + angka);
         }
     }
 }
