@@ -8,7 +8,7 @@ public class Day21 {
         System.out.print("Masukkan index : ");
         int index = input.nextInt();
         if (index > (teman).length)
-            System.out.println(index +" tidak ditemukan dalam array");
+            System.out.println(index +" tidak ditemukan dalam Array");
         else
             System.out.println("index ke-"+ index + " ditemukan pada " + teman[index]);
     }
